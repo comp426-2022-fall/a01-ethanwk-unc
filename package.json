@@ -1,0 +1,25 @@
+{
+  "name": "cashmoneymoves",
+  "version": "1.0.0",
+  "description": "this .json, yeah he's valid",
+  "main": "server.j",
+  "scripts": {
+    "test": "node server.js --port=5555"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/comp426-2022-fall/a01-ethanwk-unc.git"
+  },
+  "keywords": [
+    "ayo"
+  ],
+  "author": "ethan-unc",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/comp426-2022-fall/a01-ethanwk-unc/issues"
+  },
+  "homepage": "https://github.com/comp426-2022-fall/a01-ethanwk-unc#readme",
+  "dependencies": {
+    "minimist": "^1.2.6"
+  }
+}
